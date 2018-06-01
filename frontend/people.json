@@ -1,0 +1,17 @@
+{
+  "people": [{
+    "name":"John",
+    "age":25,
+    "address":"Main st "
+  },
+    {
+      "name":"Joan",
+      "age":26
+    },
+    {
+      "nmae":"Horace",
+      "age": 35,
+      "occupation":"janitor"
+    }
+  ]
+}
